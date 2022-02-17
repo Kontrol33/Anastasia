@@ -24,3 +24,5 @@ print(
 
 # 5
 print(*total, end='', sep='-')
+
+print ((type)tricks)
