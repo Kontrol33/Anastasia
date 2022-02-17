@@ -20,3 +20,6 @@ print(passport_serial, passport_number)
 
 reverse_string = "123"
 print(reverse_string[::-1])
+
+simple_string="Hello, world!"
+print(byte_string)
