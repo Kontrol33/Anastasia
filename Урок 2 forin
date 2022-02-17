@@ -14,3 +14,4 @@ person = {
 
 for key, value in person.items():
     print(f"Key {key} = {value}")
+print (type(forin))
