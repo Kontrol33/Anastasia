@@ -1,0 +1,8 @@
+@@ -0,0 +1,7 @@
+login = None
+
+# if login == None:
+#     print("403")
+
+if login is None:
+    print("403")
