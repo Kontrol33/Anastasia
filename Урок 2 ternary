@@ -7,3 +7,5 @@ b = 20
 #     max = b
 
 max_number = a if a > b else b
+
+print (type(ternary))
