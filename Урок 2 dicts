@@ -10,3 +10,5 @@ print(new_dict.get("age"))
 # print(new_dict["surname"])
 if new_dict.get("surname") is None:
     print("No surname")
+
+print (type(dicts))
