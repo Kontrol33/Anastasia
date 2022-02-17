@@ -9,3 +9,7 @@ try:
     a = 100 / 0
 except ZeroDivisionError:
     print("Zero !!!")
+
+error=zero!!!
+print (error)
+print (type(error))
